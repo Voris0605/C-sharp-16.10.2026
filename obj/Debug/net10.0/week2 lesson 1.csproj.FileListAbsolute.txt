@@ -1,0 +1,15 @@
+C:\Users\user\Desktop\c# softclub\week2 lesson 1\obj\Debug\net10.0\week2 lesson 1.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\user\Desktop\c# softclub\week2 lesson 1\obj\Debug\net10.0\week2 lesson 1.AssemblyInfoInputs.cache
+C:\Users\user\Desktop\c# softclub\week2 lesson 1\obj\Debug\net10.0\week2 lesson 1.AssemblyInfo.cs
+C:\Users\user\Desktop\c# softclub\week2 lesson 1\obj\Debug\net10.0\week2 lesson 1.csproj.CoreCompileInputs.cache
+C:\Users\user\Desktop\c# softclub\week2 lesson 1\obj\Debug\net10.0\week2 lesson 1.sourcelink.json
+C:\Users\user\Desktop\c# softclub\week2 lesson 1\bin\Debug\net10.0\week2 lesson 1.exe
+C:\Users\user\Desktop\c# softclub\week2 lesson 1\bin\Debug\net10.0\week2 lesson 1.deps.json
+C:\Users\user\Desktop\c# softclub\week2 lesson 1\bin\Debug\net10.0\week2 lesson 1.runtimeconfig.json
+C:\Users\user\Desktop\c# softclub\week2 lesson 1\bin\Debug\net10.0\week2 lesson 1.dll
+C:\Users\user\Desktop\c# softclub\week2 lesson 1\bin\Debug\net10.0\week2 lesson 1.pdb
+C:\Users\user\Desktop\c# softclub\week2 lesson 1\obj\Debug\net10.0\week2 lesson 1.dll
+C:\Users\user\Desktop\c# softclub\week2 lesson 1\obj\Debug\net10.0\refint\week2 lesson 1.dll
+C:\Users\user\Desktop\c# softclub\week2 lesson 1\obj\Debug\net10.0\week2 lesson 1.pdb
+C:\Users\user\Desktop\c# softclub\week2 lesson 1\obj\Debug\net10.0\week2 lesson 1.genruntimeconfig.cache
+C:\Users\user\Desktop\c# softclub\week2 lesson 1\obj\Debug\net10.0\ref\week2 lesson 1.dll
